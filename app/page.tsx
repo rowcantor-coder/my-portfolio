@@ -15,7 +15,6 @@ const skills = [
 export default function Home() {
   return (
     <main className="min-h-screen bg-white text-slate-800">
-
       {/* Hero Section */}
       <section className="mx-auto max-w-6xl px-6 py-24 text-center">
         <p className="mb-4 text-sm font-semibold uppercase tracking-widest text-sky-600">
@@ -123,9 +122,8 @@ export default function Home() {
 
       {/* Footer */}
       <footer className="border-t border-slate-200 px-6 py-6 text-center text-sm text-slate-500">
-        © {new Date().getFullYear()} Rowell Cantor. All rights reserved.
+        © 2026 Rowell Cantor. All rights reserved.
       </footer>
-
     </main>
   );
 }
