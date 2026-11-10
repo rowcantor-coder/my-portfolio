@@ -9,28 +9,28 @@ import { GraduationCap, Award } from "lucide-react";
 
 const educationList = [
   {
-    degree: "Master in Information Technology",
-    institution: "Ateneo Naga University",
-    period: "2013 - 2016",
+    degree: "Bachelor of Science in Information Technology",
+    institution: "Naga College Foundation",
+    period: "2025- 2026",
     description:
       "Focused on software engineering, data structures, algorithms, and web development.",
-    achievements: ["Thesis On Las Lado", "Dean's List (All Semesters)", "Capstone Project Lead"],
+    achievements: ["Dean's List", "Outstanding Student Award"],
   },
   {
-    degree: "BS in Information Technology",
-    institution: "University of Nueva Caceres",
-    period: "2005 - 2010",
+    degree: "Senior High School Education",
+    institution: "Naga College Foundation",
+    period: "2023 - 2025",
     description:
-      "Intensive program covering React, Node.js, databases, and deployment.",
-    achievements: ["Built 3 full-stack applications", "Peer Code Reviewer"],
+      "Sports Track",
+    achievements: ["Class Achievers Awardee"],
   },
   {
     degree: "High School Education",
-    institution: "Ateneo de Naga University",
-    period: "1999 - 2003",
+    institution: "Don Leon Q. Mercado High School",
+    period: "2018 - 2023",
     description:
       "Intensive program covering React, Node.js, databases, and deployment.",
-    achievements: ["Built 2 full-stack applications", "Peer Code Reviewer"],
+    achievements: ["With Honors"],
   },
 ];
 
